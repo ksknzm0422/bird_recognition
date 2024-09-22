@@ -53,7 +53,7 @@
 ## 运行方法
 1. 克隆该仓库：
 ```bash
-   git clone https://github.com/Cyancity27/ResNet50-CUB-.git
+   git clone https://github.com/ksknzm0422/bird_recognition.git
  ```
 2. 安装所需依赖
 ```bash
